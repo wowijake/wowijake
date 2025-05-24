@@ -44,14 +44,14 @@
 </span>
 </pre>
 
-<p align="center"><b style="color:#b8bb26;">"Coding among the stars, dreaming beyond the clouds."</b></p>
+<p align="center"><b style="color:#b8bb26;">"the wondererofthemosaic ."</b></p>
 
 ---
 
 ## 🌟 About Me
 
 **Alias:** wowijake  
-**Theme:** Cosmic coder, lover of the unknown.
+**Theme:** seeker of the unknown.
 
 ---
 
@@ -60,7 +60,8 @@
 - 🛰️ **Cypress Automation & Testing**
 - 🌌 **Network Monitoring & Security**
 - 🛡️ **Cybersecurity Adventurer**
-- 📡 **Command-line Astronaut**
+- 📡 **penetration Testing**
+  
 
 ---
 
