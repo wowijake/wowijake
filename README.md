@@ -1,84 +1,97 @@
-<!-- Profile README for wowijake - Neon Cyberpunk Theme -->
+<!-- Profile README for wowijake - Cosmic Coder Theme -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=800&color=FF00FF&background=0D1B2A¢er=true&vCenter=true&width=700&lines=%E2%9A%A1+wowijake+%7C+Neon+Cyber+Savant;Pioneering+the+Future+of+Tech!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=3200&pause=900&color=83A598&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+wowijake+%7C+Cosmic+Networker+%E2%98%84;Exploring+the+universe+of+technology!" />
 </p>
 
+<!-- COSMIC DIVIDER: Gruvbox beige (light yellow: #ebdbb2) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5Mzc5M2Y2M2M4ZDY4M2M4ZjQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5Yw==/giphy.gif" alt="Neon Divider" width="450"/>
+<pre>
+<span style="color:#ebdbb2;">
+          *     .    .  *       *       .   .       *
+    .         .         .      .   *         .   *       .
+        *    .   *       .       .   .  *      .   .   *
+     .  *  ✦   .      * .     *  .   *   .      .  .  *
+          .        .    .    *      .   *      .      .
+</span>
+</pre>
 </p>
 
-<!-- NEON CYBERPUNK ASCII ART -->
+<!-- COSMIC ASCII ART -->
 <pre align="center">
-<span style="color:#FF00FF;">
-   .         .           .     .  .   +   .  Welcome to Neon City
-       .  *   .   .  *  .   .  :  .       .   .
-   .  :  .   .  *  .  . : .  . _  ___  ___ .  : .
-      .  :  .  .  .  .:.:./: . ^ .  ^ .  . : . \ .
-   .  *   . : : . : .:.:./: .   .    .   .  . . :\ .
-     .  :  .   . _ :::/: .   .   .   .  .  ^ .  . :\ .
-    .   . .  . - : :.:./. .   .   .   .   . . .  . :\ .
-   .   .   . : .:.:|: .  .  .   .   .   . . . ^ . . :| .
-     .   . : : . || .   .   .   .   .   . . . . . !:| .
-   .  * . . ::. ::\( .   .   .   .   .   . .  .  . :)/ .
-  .   .  : .: .:.|. Cyber City .   .   .  ######::| .  .
-    . : . :- : .: ::|.Dreams of Tomorrow . .########:| .  .
-   .  .  .  ..  . :\ Neon Tech . .   . .######## :/ .  .
-  .  .   .+ :: : -.:\ Light of Innovation . .########.:/ .  .
-    . .+ . . . . :.:\. Wave of Progress . . .####..:/ .  .
-   . : . . . . ::.:..:.\ .  . | | . . . ..:/ .  .
-  .   .  .  .. : -::::.\. .  | | . .  . .:/ .  .
-   .  :  .  .  .-:.:.::.\ .   . . . ..:/ .  .
- .  .  - . . . . .: .:::.:.\. . . . . .:/ .  .
-.  .  .  : .  :  ..:._:..:.\ ___. :/ .  .
-  .  .  .  . .:. .. .: :.:.:\ . :/ .  .
+<span style="color:#689d6a;">
+         .     .       .  .   . .   .   . .    +  .
+     .     .  :     .    .. :. .___---------___.
+          .  .   .    .  :.:. _".^ .^ ^.  '.. :"-_. .
+       .  :       .  .  .:../:            . .^  :.:\.
+           .   . :: +. :.:/: .   .    .        . . .:\
+    .  :    .     . _ :::/:               .  ^ .  . .:\
+     .. . .   . - : :.:./.                        .  .:\
+     .      .     . :..|:                    .  .  ^. .:|
+       .       . : : ..||        .                . . !:|
+     .     . . . ::. ::\(                           . :)/    .
+    .   .     : . : .:.|. ######              .#######::|   . .
+      :.. .  :-  : .:  ::|.#######           ..########:| .  .
+     .  .  .  ..  .  .. :\ ########          :######## :/     .
+      .        .+ :: : -.:\ ########       . ########.:/     .
+        .  .+   . . . . :.:\. #######       #######..:/   .
+          :: . . . . ::.:..:.\           .   .   ..:/  .
+       .   .   .  .. :  -::::.\.       | |     . .:/      .
+          .  :  .  .  .-:.":.::.\             ..:/   .
+     .      -.   . . . .: .:::.:.\.           .:/           .
+    .   .   .  :      : ....::_:..:\   ___.  :/        .
+       .   .  .   .:. .. .  .: :.:.:\       :/           .
 </span>
 </pre>
 
-<p align="center"><b style="color:#00FFFF;">"Weaving code in neon nights, shaping dreams of tomorrow."</b></p>
+<p align="center"><b style="color:#b8bb26;">"Coding among the stars, dreaming beyond the clouds."</b></p>
 
 ---
 
-## 🌌 About Me
+## 🌟 About Me
 
-**Codename:** Mosaic Seeker  
-**Theme:** Lover of the Infinite Unknown  
-**Motto:** "Code is poetry, tech is art."
-
----
-
-## ⚡️ Tech Stack
-
-- 🌃 **Cypress Automation & Testing** (Neon Automation Frameworks)  
-- 🖥️ **Network Monitoring & Security** (Cyber Grid Surveillance)  
-- 🔒 **Cybersecurity Explorer** (Digital Shinobi)  
-- 🛠️ **Command-line Navigator** (Terminal Voyager)
+**Alias:** wowijake  
+**Theme:** Cosmic coder, lover of the unknown.
 
 ---
 
-## 🌆 Current Missions
+## 🚀 Tech Stack
 
-- 🐳 **Docker** (Container Nebulae)  
-- ☸️ **Kubernetes** (Galactic Orchestration)  
-- 👾 **Exploring New Tech Realms**
+- 🛰️ **Cypress Automation & Testing**
+- 🌌 **Network Monitoring & Security**
+- 🛡️ **Cybersecurity Adventurer**
+- 📡 **Command-line Astronaut**
+
+---
+
+## 🌠 Current Missions
+
+- 🐳 **Docker** (Container Constellations)
+- ☸️ **Kubernetes** (Galaxy Orchestration)
+- 👾 Exploring new universes in tech
 
 ---
 
 ## 🌐 Connect Across the Cosmos
 
 <p>
-  <a href="https://twitter.com/jeffy_dali" target="_blank"><img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=0D1B2A&labelColor=00FFFF" alt="Twitter"/></a>
-  <a href="https://instagram.com/dali_mpinganjira" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=0D1B2A&labelColor=FF00FF" alt="Instagram"/></a>
+  <a href="https://twitter.com/jeffy_dali" target="_blank"><img src="https://img.shields.io/badge/Twitter-83A598?style=for-the-badge&logo=twitter&logoColor=282828&labelColor=FABD2F" alt="Twitter"/></a>
+  <a href="https://instagram.com/dali_mpinganjira" target="_blank"><img src="https://img.shields.io/badge/Instagram-B16286?style=for-the-badge&logo=instagram&logoColor=282828&labelColor=CC241D" alt="Instagram"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wowijake&style=flat-square&color=FF00FF" alt="wowijake profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=wowijake&style=flat-square&color=83A598" alt="wowijake profile views"/>
 </div>
 
+<!-- ASCII Cosmic Divider: Always available -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5Mzc5M2Y2M2M4ZDY4M2M4ZjQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5Yw==/giphy.gif" alt="Neon Divider" width="150"/>
+<pre>
+<span style="color:#fabd2f;">
+      ✦    *      .      .  ✦   *   .      . ✦   .   .
+</span>
+</pre>
 </p>
 
-<p align="center"><b style="color:#00FFFF;">✨ "Chasing bugs in neon skies, forging the future." ✨</b></p>
+<p align="center"><b style="color:#83A598;">✨ “Keep looking up—there’s always another bug hiding in the stars.” ✨</b></p>
