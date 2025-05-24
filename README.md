@@ -21,7 +21,7 @@ Always hunting bounties in **network engineering** and **cybersecurity**, riding
 
 ---
 
-## ⚔️ Arsenal & Gear
+## ⚔️ Gear
 
 - 🎮 Cypress Automation Testing  
 - 🛰️ Network Monitoring & Troubleshooting  
