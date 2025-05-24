@@ -10,13 +10,15 @@
 <span style="color:#ebdbb2;">
           *     .    .  *       *       .   .       *
     .         .         .      .   *         .   *       .
-        *    .   *       .  je     .   .  *      .   .   *
+        *    .   *       .       .   .  *      .   .   *
      .  *  ✦   .      * .     *  .   *   .      .  .  *
           .        .    .    *      .   *      .      .
 </span>
 </pre>
 </p>
-
+<p align="center">
+<img src="https://drive.google.com/file/d/1sl7NtEXLOxN0oaQACNs3KvIkcqKrYT6J/view?usp=sharing" />
+</p>
 
 <p align="center"><b style="color:#b8bb26;">"the wondererofthemosaic ."</b></p>
 
